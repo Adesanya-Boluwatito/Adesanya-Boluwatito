@@ -21,8 +21,7 @@
 
 I’m a **full-stack & mobile engineer** building secure, scalable platforms with **Next.js/React** on the front, **Node.js/Express** (and **Flask**) on the back, and **PostgreSQL/Supabase** or **Firebase** for data & auth. I care about **performance in low-bandwidth contexts**, **clean information architecture**, and **developer ergonomics** (typed APIs, CI/CD, observability).
 
-Recent highlights: the **AfLI Community Hub** (Next.js + Supabase) and **Orderly** food-delivery ecosystem (React Native + Firebase + Paystack). :contentReference[oaicite:0]{index=0}
-
+Recent highlights: the **AfLI Community Hub** (Next.js + Supabase) and **Orderly** food-delivery ecosystem (React Native + Firebase + Paystack). :
 ---
 
 ## 🧰 Tech I Use
